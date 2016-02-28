@@ -1,6 +1,6 @@
 # OrangeDotted54
 
-OrangeDotted54 is simple, dotted font for imitating digital interfaces.
+OrangeDotted54 is simple, dotted font to imitate old LCD digital interfaces.
 
 ## License
 OrangeDotted54 is licenced under version 2 of the Apache License (Apache-2.0). 
