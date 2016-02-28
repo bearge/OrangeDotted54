@@ -9,4 +9,10 @@ This font can be freely used in all type of projects personally or commerically,
 ## Screenshot
 ![alt text][screenshot]
 
+
+## Special Thanks
+My sincerely thanks goes to authors and contributors of [FontForge][fontforge] project, since I used [FontForge][fontforge] to create OrangeDotted54 font. 
+
+
 [screenshot]: https://github.com/bearge/OrangeDotted54/raw/master/img/screenshot.png "OrangeDotted54 Screenshot"
+[fontforge]: https://github.com/fontforge/fontforge
